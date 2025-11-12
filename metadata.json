@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Voice Memo & Diarization",
+  "description": "A web application to record audio, transcribe it in real-time, and then use AI to identify and label different speakers in the conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
